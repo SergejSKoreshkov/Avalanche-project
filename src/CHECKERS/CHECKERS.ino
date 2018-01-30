@@ -29,7 +29,7 @@ void CREATE_FIELD()
 
 void SET_FIGURES()
 {
-  
+  loop();
 }
 
 void SHOW_FIELD()
