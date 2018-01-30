@@ -1,5 +1,5 @@
 
-byte[][] field = new byte[8][8];
+byte[][] field1 = new byte[8][8];
 
 void setup() 
 {
